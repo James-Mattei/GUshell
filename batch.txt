@@ -1,0 +1,9 @@
+path /bin /usr/bin /usr/local/bin
+ls|cat|nl|wc
+nl -v 500 -i 2 messages.txt
+history
+pwd
+ps -aux|grep sbin|wc -l
+cat <messages.txt |grep 1
+pwd
+exit
